@@ -616,7 +616,9 @@ class LRInference:
     # return log_proba
 
    # [6] Conclusions
-   import numpy as np
+
+   # Packages
+import numpy as np
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS
 import json
