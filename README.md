@@ -666,7 +666,7 @@ elif option == "2":
 ![Alt text]( https://github.com/riddhi-99/AmazonFoodReviewSentimentAnalysis/blob/main/Picture1.png)
 ![Alt text](https://github.com/riddhi-99/AmazonFoodReviewSentimentAnalysis/blob/main/Picture2.png)
 
-![Alt text](https://github.com/riddhi-99/AmazonFoodReviewSentimentAnalysis/blob/main/WhatsApp%20Image%202024-05-08%20at%2018.42.31_8a5080b0.jpg)
+![Alt text](https://github.com/riddhi-99/AmazonFoodReviewSentimentAnalysis/blob/main/image.png)
 
 # Overall Observation
 Features are multi-collinear, so before modelling we need to discard redundant features
